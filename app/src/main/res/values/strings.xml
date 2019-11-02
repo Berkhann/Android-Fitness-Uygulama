@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FitnessGunlukleri</string>
+    <string name="title_activity_my_program">MyProgram</string>
+    <string name="home_page">Ana Menu</string>
+    <string name="save_Button">Kaydet</string>
+    <string name="exercises">Programım</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
